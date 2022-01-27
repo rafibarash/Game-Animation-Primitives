@@ -29,7 +29,7 @@
     "typescript": "^3.8.3"
   },
   "dependencies": {
-    "three": "^0.116.1",
+    "three": "^0.137.0",
     "tinyqueue": "^2.0.3"
   },
   "husky": {
